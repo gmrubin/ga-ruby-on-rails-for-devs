@@ -10,4 +10,4 @@
 
 =end
 
-
+10.times { |i| puts i unless i%2 == 0}
