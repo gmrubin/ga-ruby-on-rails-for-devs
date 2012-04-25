@@ -10,4 +10,4 @@
 
 =end
 
-10.times { |i| puts i unless i%2 == 0}
+(1..5).each { |i| puts 2*i-1}
