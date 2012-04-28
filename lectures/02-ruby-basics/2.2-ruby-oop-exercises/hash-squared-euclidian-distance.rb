@@ -14,7 +14,7 @@ Add a `squared_euclidean_distance` method to the `Hash` class that takes another
 class Hash
 
   def self.squared_euclidean_distance(lhs, rhs)
-    # TODO
+    lhs.merge(rhs) { |k, lh, rh| rh - lh }.values.inject(0) { |s, i| s + i**2 }
   end
 
   def squared_euclidean_distance(rhs)
