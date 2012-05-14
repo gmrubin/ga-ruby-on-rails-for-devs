@@ -7,7 +7,7 @@ describe "things/show.html.haml" do
   end
 
   it "renders a thing" do
-    # TODO
+    render
   end
 
 end

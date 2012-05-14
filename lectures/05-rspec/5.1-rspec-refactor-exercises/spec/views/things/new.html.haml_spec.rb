@@ -7,7 +7,10 @@ describe "things/new.html.haml" do
   end
 
   it "renders new thing form" do
-    # TODO
+    render
+    assert_select "form", action: things_path, method: "post" do
+      assert_select "input#thing_name", :name => "thing[name]"
+    end
   end
-  
+
 end
