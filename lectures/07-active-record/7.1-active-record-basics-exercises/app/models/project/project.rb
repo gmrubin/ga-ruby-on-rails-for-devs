@@ -1,5 +1,5 @@
 class Project < ActiveRecord::Base
-  attr_accessible :employees_count, :name, :type
+  attr_accessible :name, :type
   has_many :employee_projects
   has_many :employees, :through => :employee_projects
   before_validation :ensure_employees_count_positive
@@ -11,7 +11,7 @@ class Project < ActiveRecord::Base
 
   private
     def update_employees_count
-      self.employees_count = employees.count
+      self.employees_count = employees.size
     end
 
     def ensure_employees_count_positive
