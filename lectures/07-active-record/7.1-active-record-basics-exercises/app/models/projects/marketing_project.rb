@@ -1,4 +1,4 @@
-class MarketingProject < Project
+class Project::MarketingProject < Project
   def description
     "Marketing projects go here."
   end
