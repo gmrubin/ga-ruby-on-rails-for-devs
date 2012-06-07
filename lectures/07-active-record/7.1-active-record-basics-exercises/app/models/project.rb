@@ -5,9 +5,6 @@ class Project < ActiveRecord::Base
   validate :validate_ensure_employees_count_positive
   before_validation :update_employees_count
 
-  def description
-    ""
-  end
 
   private
     def update_employees_count
