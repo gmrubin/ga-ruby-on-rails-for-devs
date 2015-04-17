@@ -1,9 +1,9 @@
-Ruby on Rails for Developers
+Ruby on Rails for Developers 
 ============================
 
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-This course teaches experienced developers [Ruby](http://www.ruby-lang.org) and [Ruby on Rails](http://rubyonrails.org/). It's designed to be taught by a practicing rubyist and a teaching assistant. Both individuals must have expert understanding of Ruby, Rack and Ruby on Rails. The ideal class size is 12-15 students, each having prior application development track record. The lesson plan is conceived as 12 two-hour lectures with homework given after each of the first 6 courses. Assignments are tracked in [Pivotal Tracker](http://pivotaltracker.com). Subsequent 6 lectures alternate class material with coding. The course ends with 8 hours of building a final project for obtaining certification.
+[suggestion] This course teaches experienced developers [Ruby](http://www.ruby-lang.org) and [Ruby on Rails](http://rubyownrails.org/). It's designed to be taught by a practicing rubyist and a teaching assistant.mework given after each of the first 6 courses. Assignments are tracked in [Pivotal Tracker](http://pivotaltracker.com). Subsequent 6 lectures alternate class material with coding. The course ends with 8 hours of building a final project for obtaining certification.
 
 These materials were developed for General Assembly's class: Ruby on Rails for Developers. To apply to take the next itearation of this class through GA visit: [Rails for Dev @ GA](https://generalassemb.ly/ruby-on-rails-for-devs).
 
@@ -42,34 +42,5 @@ Final lectures include RESTful APIs with Rails and [Grape](https://github.com/in
 * [Lecture 11: NoSQL with MongoDB](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/blob/master/lectures/11-nosql-with-mongodb/README.md)
 * [Lecture 12: Caching](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/blob/master/lectures/12-caching/README.md)
 
-Exercises
----------
-
-* [Exercises](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/tree/master/class)
-
-Contributing
-------------
-
-Fork the project. Make your addition or correction. Send a pull request. Bonus points for topic branches. Make language-specific pull requests into existing language branches. If you're translating into a new language, e-mail the [Google group](http://groups.google.com/group/ga-ruby-on-rails-for-devs) and we'll create a new one.
-
-License
--------
-
-This course is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/). It may be reused and adapted for non-commercial purposes. Please contact [Matthew Owens at GeneralAssemb.ly](mailto:mowens@generalassemb.ly) for commercial licensing.
-
-![Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License](http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License")
-
-Sponsors
---------
-
-This course has been produced in partnership with [Pivotal Labs](http://pivotallabs.com/) and [Engine Yard](http://www.engineyard.com/).
-
-![PivotalLabs](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/pivotal-labs.png "PivotalLabs")
-
-![EngineYard](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/engine-yard.png "EngineYard")
-
-Copyright
----------
-
-(c) 2012 [GeneralAssemb.ly](https://generalassemb.ly/ruby-on-rails-for-devs), [Daniel Doubrovkine](http://github.com/dblock) and [contributors](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/blob/master/CONTRIBUTORS.md).
+](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/blob/master/CONTRIBUTORS.md).
 
